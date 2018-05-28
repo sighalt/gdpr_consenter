@@ -11,6 +11,6 @@ $ pip install git+https://github.com/sighalt/gdpr_consenter.git
 ## How to use?
 
 ```
-$ gdpr-consenter.py http://www.1337core.de/datenschutz/ div.button
+$ gdpr-consenter http://www.1337core.de/datenschutz/ div.button
 ```
 
